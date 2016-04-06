@@ -1,0 +1,24 @@
+<svg id="theC" width="100%" height="100%" viewBox="0 0 162 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-400.479,-299.694)">
+        <g>
+            <g transform="matrix(-0.798119,0,0,1.00919,881.45,-4.60224)">
+                <rect x="401.215" y="302.253" width="200.493" height="198.384" style="fill:none;stroke-width:0.93px;stroke:white;"/>
+            </g>
+            <g transform="matrix(0.192386,3.08149e-33,-3.08149e-33,0.192386,356.599,357.351)">
+                <text x="462.769px" y="457.47px" style="font-family:'Avenir-Light';font-size:113.731px;fill:white;stroke-width:5.2px;stroke-linecap:butt;stroke:white;">Col<tspan x="637.8px 665.096px " y="457.47px 457.47px ">le</tspan>ct</text>
+            </g>
+            <g transform="matrix(0.121216,0,0,0.121216,360.256,434.41)">
+                <text x="412.091px" y="485.763px" style="font-family:'Avenir-Light';font-size:113.731px;fill:white;stroke-width:8.25px;stroke-linecap:butt;stroke:white;">1.008</text>
+            </g>
+            <g transform="matrix(0.163558,0,0,0.163558,343.815,244.543)">
+                <text x="416.12px" y="478.778px" style="font-family:'Avenir-Light';font-size:113.731px;fill:white;stroke-width:6.11px;stroke-linecap:butt;stroke:white;">1</text>
+            </g>
+            <g transform="matrix(0.154812,0,0,0.154812,471.611,250.567)">
+                <text x="416.12px" y="478.778px" style="font-family:'Avenir-Light';font-size:113.731px;fill:white;stroke-width:6.46px;stroke-linecap:butt;stroke:white;">1</text>
+            </g>
+            <g transform="matrix(1.02874,2.46519e-32,0,0.917263,-52.6872,21.8966)">
+                <text x="476.504px" y="429.423px" style="font-family:'Avenir-Heavy';font-size:113.731px;fill:white;stroke-width:1.03px;stroke-linecap:butt;stroke:white;">C</text>
+            </g>
+        </g>
+    </g>
+</svg>

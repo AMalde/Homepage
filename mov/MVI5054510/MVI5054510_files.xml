@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="MVI_5054_5(10).mov" source="original">
+    <format>QuickTime</format>
+    <length>29.6</length>
+    <height>720</height>
+    <width>1280</width>
+    <mtime>1369995109</mtime>
+    <size>17064564</size>
+    <md5>9349fffac169b54b814ce9af4699294a</md5>
+    <crc32>7f6bb450</crc32>
+    <sha1>151c7cdd5f8a5ef8d52fc3106965bca5e8d87385</sha1>
+  </file>
+  <file name="MVI_5054_5(10).mov_meta.txt" source="original">
+    <format>Metadata</format>
+    <mtime>1369995110</mtime>
+    <size>3820</size>
+    <md5>2e2d1cae417ca82aea0807cfd633cbf3</md5>
+    <crc32>ba60a247</crc32>
+    <sha1>3bcc45e275f58d3a5e6e562299df3e49b476025d</sha1>
+  </file>
+  <file name="MVI_5054_5(10).ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>MVI_5054_5(10).mov</original>
+    <mtime>1369995194</mtime>
+    <size>1894138</size>
+    <md5>c9aa6dab3a60ddfbf42e6f3fa010838c</md5>
+    <crc32>26d66a13</crc32>
+    <sha1>be843a32f4b8b0acc3ce921164d16be39ab3854f</sha1>
+    <length>29.6</length>
+    <height>300</height>
+    <width>532</width>
+  </file>
+  <file name="MVI_5054_5(10).mp4" source="derivative">
+    <format>h.264</format>
+    <original>MVI_5054_5(10).mov</original>
+    <mtime>1369995160</mtime>
+    <size>2590541</size>
+    <md5>642b145dec59df725a776b9548489c6d</md5>
+    <crc32>4b511b33</crc32>
+    <sha1>c486809b755b575397101f6e8b374bc273fbac74</sha1>
+    <length>29.6</length>
+    <height>360</height>
+    <width>640</width>
+  </file>
+  <file name="MVI5054510.thumbs/MVI_5054_5(10)_000017.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MVI_5054_5(10).mov</original>
+    <mtime>1369995138</mtime>
+    <size>2015</size>
+    <md5>4c2338c4dbe37edbcb1bf4c0275e467a</md5>
+    <crc32>726266a4</crc32>
+    <sha1>cdaf1d62e9a3c9f7bd231dd19cc8dcaa09f23bf9</sha1>
+  </file>
+  <file name="MVI5054510.thumbs/MVI_5054_5(10)_000027.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MVI_5054_5(10).mov</original>
+    <mtime>1369995140</mtime>
+    <size>3093</size>
+    <md5>004c86734c4353bbbbd0530d80e1f7ac</md5>
+    <crc32>44c6d838</crc32>
+    <sha1>215facfab119b64b3538fd91eef9f342c0104d53</sha1>
+  </file>
+  <file name="MVI5054510.thumbs/MVI_5054_5(10)_000022.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MVI_5054_5(10).mov</original>
+    <mtime>1369995139</mtime>
+    <size>2275</size>
+    <md5>3e8562d9716833f4c862848bd0e612e7</md5>
+    <crc32>ba86aaca</crc32>
+    <sha1>bbfcd40894b06c658cc6776169d9d9dbd9fdb14c</sha1>
+  </file>
+  <file name="MVI5054510.thumbs/MVI_5054_5(10)_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MVI_5054_5(10).mov</original>
+    <mtime>1369995136</mtime>
+    <size>1292</size>
+    <md5>1bd75ceeb418b7165e6ca46df4737dbd</md5>
+    <crc32>b8cd8d3f</crc32>
+    <sha1>8f02e1ba890c886d8c9b0292d846a206a2b558ea</sha1>
+  </file>
+  <file name="MVI5054510.thumbs/MVI_5054_5(10)_000012.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MVI_5054_5(10).mov</original>
+    <mtime>1369995138</mtime>
+    <size>2825</size>
+    <md5>82c9fda4b5f029b83e0d786728ccfa47</md5>
+    <crc32>afb4860a</crc32>
+    <sha1>3b299efd36a40dfb39f14473433368e3827f73d2</sha1>
+  </file>
+  <file name="MVI5054510.thumbs/MVI_5054_5(10)_000007.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MVI_5054_5(10).mov</original>
+    <mtime>1369995137</mtime>
+    <size>3307</size>
+    <md5>fd02dee9bd0278506fc2d290bcaa2f16</md5>
+    <crc32>1c0ee00a</crc32>
+    <sha1>22190ad394e864166ec50309541c4699078788fb</sha1>
+  </file>
+  <file name="MVI_5054_5(10).gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>MVI_5054_5(10).mov</original>
+    <mtime>1369995135</mtime>
+    <size>37693</size>
+    <md5>eb102fe8d4ae78259f1e01033a5c5650</md5>
+    <crc32>be7f3c19</crc32>
+    <sha1>4a3fe693f9e2b04bf3a01f8ac95da238f8d7df2e</sha1>
+  </file>
+  <file name="MVI5054510_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1395549992</mtime>
+    <size>3126</size>
+    <md5>1b8659b8efe050e4237f03a17af8c232</md5>
+    <crc32>d54ee737</crc32>
+    <sha1>aec43472a71c2d9665b2be559b2db4106b763a2b</sha1>
+  </file>
+  <file name="MVI5054510_archive.torrent" source="metadata">
+    <btih>e3b3856e5aca77c6470536807e6bf94c90bad0b2</btih>
+    <mtime>1395549993</mtime>
+    <size>2797</size>
+    <md5>78da3edd1871fdbe7fd009dc9e321214</md5>
+    <crc32>d13c2d54</crc32>
+    <sha1>749d0fab68993bf16b8e072691a6c10112cb761b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="MVI5054510_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>fbf8bf4ec983032f3f40e817f00ea3f1</md5>
+  </file>
+</files>

@@ -1,0 +1,54 @@
+ETag: "9349fffac169b54b814ce9af4699294a"
+accept: */*
+accept-encoding: gzip,deflate,sdch
+accept-language: en-US,en;q=0.8
+authorization: LOW Yd7msuOfrY263N8F:REDACTED_BY_IA_S3
+cache-control: no-cache
+connection: close
+content-length: 17064564
+content-type: multipart/form-data; charset=UTF-8
+host: s3.us.archive.org
+origin: http://archive.org
+referer: http://archive.org/upload/
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.29 Safari/537.36
+x-amz-acl: bucket-owner-full-control
+x-amz-auto-make-bucket: 1
+x-archive-interactive-priority: 1
+x-archive-meta-mediatype: movies
+x-archive-meta01-collection: opensource_movies
+x-archive-meta01-creator: uri(digital.meals)
+x-archive-meta01-description: uri(http%3A%2F%2Fyoutube.com%2Fdigitalmeals%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cdiv%3Ehttp%3A%2F%2Fwww.facebook.com%2Fdigitalmeals%3C%2Fdiv%3E%3Cdiv%3Ehttp%3A%2F%2Fwww.twitter.com%2Fdigitalmeals%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3EIf%20you%20really%20like%20our%20free%20Digital%20Meals%20and%20would%20like%20to%20make%20a%20donation%3A%3C%2Fdiv%3E%3Cdiv%3Ehttp%3A%2F%2Fbit.ly%2FdigitalmealsDonate%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3EFree%20Stock%20Footage%20of%20a%20Smoke%20Atmosphere%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3EUse%20%22overlay%22%20or%20%22screen%22%20mode%20within%20video%20editing%2Fpost-production%20software%20to%20add%20as%20an%20element%20in%20your%20video.%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3EIf%20you%20download%20this%20clip%2C%20please%20rate%2C%20comment%20and%20subscribe!%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E------Download%20link%20at%20our%20blog%3A%3C%2Fdiv%3E%3Cdiv%3Ehttp%3A%2F%2Fdigitalmeals.blogspot.com%2F2012%2F03%2Fsmoke-atmosphere.html%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3E-----This%20is%20completely%20original%20footage%2C%20so%20you%20can%20use%20this%20in%20any%20project%20commercial%20or%20noncommercial----%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3EYou%20may%20not%20redistribute%2C%20loan%2C%20license%2C%20or%20sell%20any%20Digital%20Meals%20footage.%3C%2Fdiv%3E%3C%2Fdiv%3E)
+x-archive-meta01-scanner: Internet Archive HTML5 Uploader 1.4
+x-archive-meta01-subject: film original
+x-archive-meta01-title: uri((10)%20Smoke%20Atmosphere%20HD%20%7C%20Free%20Stock%20Footage%20%7C%20digital.meals)
+x-archive-meta02-subject: smoke stock
+x-archive-meta03-subject: smoke stock footage hd
+x-archive-meta04-subject: free stock footage
+x-archive-meta05-subject: free hd
+x-archive-meta06-subject: hd stock
+x-archive-meta07-subject: free hd stock footage
+x-archive-meta08-subject: stock footage
+x-archive-meta09-subject: free smoke footage
+x-archive-meta10-subject: free smoke stock footage
+x-archive-meta11-subject: free smoke effect download
+x-archive-meta12-subject: free smoke effect
+x-archive-meta13-subject: Atmosphere Effects
+x-archive-meta14-subject: animation
+x-archive-meta15-subject: after effects
+x-archive-meta16-subject: digitalmeals digital meals
+x-archive-meta17-subject: b-roll
+x-archive-meta18-subject: broll
+x-archive-meta19-subject: b footage
+x-archive-meta20-subject: Free download
+x-archive-meta21-subject: royalty free
+x-archive-meta22-subject: royalty free stock
+x-archive-meta23-subject: smoke cloud
+x-archive-meta24-subject: smoky
+x-archive-meta25-subject: mist
+x-archive-meta26-subject: fog
+x-archive-meta27-subject: foggy
+x-archive-size-hint: 17064564
+x-file-name: MVI_5054_5(10).mov
+x-file-size: 17064564
+x-requested-with: XMLHttpRequest
+x-upload-date: 2013-05-31T10:11:50.000Z

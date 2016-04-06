@@ -1,0 +1,27 @@
+<svg class="chemistry" width="100%" height="100%" viewBox="0 0 162 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-397.992,-517.743)">
+        <g>
+            <g transform="matrix(-0.798119,0,0,1.00919,878.963,213.447)">
+                <rect x="401.215" y="302.253" width="200.493" height="198.384" style="fill:none;stroke-width:0.93px;"/>
+            </g>
+            <g transform="matrix(0.192386,3.08149e-33,-3.08149e-33,0.192386,354.113,575.4)">
+                <text x="425.863px" y="457.47px" style="font-family:'Avenir-Light';font-size:113.731px;stroke-width:5.2px;stroke-linecap:butt;">Pr<tspan x="526.97px 594.526px " y="457.47px 457.47px ">og</tspan>ram</text>
+            </g>
+            <g transform="matrix(0.121216,0,0,0.121216,357.769,652.459)">
+                <text x="412.091px" y="485.763px" style="font-family:'Avenir-Light';font-size:113.731px;stroke-width:8.25px;stroke-linecap:butt;">6.94</text>
+            </g>
+            <g transform="matrix(0.163558,0,0,0.163558,341.328,462.592)">
+                <text x="416.12px" y="478.778px" style="font-family:'Avenir-Light';font-size:113.731px;stroke-width:6.11px;stroke-linecap:butt;">3</text>
+            </g>
+            <g transform="matrix(0.154812,0,0,0.154812,469.739,468.616)">
+                <text x="416.12px" y="478.778px" style="font-family:'Avenir-Light';font-size:113.731px;stroke-width:6.46px;stroke-linecap:butt;">2</text>
+            </g>
+            <g transform="matrix(0.154812,0,0,0.154812,469.739,491.815)">
+                <text x="416.12px" y="478.778px" style="font-family:'Avenir-Light';font-size:113.731px;stroke-width:6.46px;stroke-linecap:butt;">1</text>
+            </g>
+            <g transform="matrix(1.02874,2.46519e-32,0,0.917263,-49.2909,239.946)">
+                <text x="476.504px" y="429.423px" style="font-family:'Avenir-Heavy';font-size:113.731px;stroke-width:1.03px;stroke-linecap:butt;">P</text>
+            </g>
+        </g>
+    </g>
+</svg>

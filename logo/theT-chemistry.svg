@@ -1,0 +1,27 @@
+<svg class="chemistry" width="100%" height="100%" viewBox="0 0 162 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-128.724,-489.846)">
+        <g>
+            <g transform="matrix(-0.798119,0,0,1.00919,609.695,185.551)">
+                <rect x="401.215" y="302.253" width="200.493" height="198.384" style="fill:none;stroke-width:0.93px;"/>
+            </g>
+            <g transform="matrix(0.192386,3.08149e-33,-3.08149e-33,0.192386,87.8686,547.504)">
+                <text x="540.731px" y="457.47px" style="font-family:'Avenir-Light';font-size:113.731px;stroke-width:5.2px;stroke-linecap:butt;">T<tspan x="593.389px 656.623px " y="457.47px 457.47px ">es</tspan>t</text>
+            </g>
+            <g transform="matrix(0.121216,0,0,0.121216,88.5011,624.563)">
+                <text x="412.091px" y="485.763px" style="font-family:'Avenir-Light';font-size:113.731px;stroke-width:8.25px;stroke-linecap:butt;">9.01218</text>
+            </g>
+            <g transform="matrix(0.163558,0,0,0.163558,72.06,434.695)">
+                <text x="416.12px" y="478.778px" style="font-family:'Avenir-Light';font-size:113.731px;stroke-width:6.11px;stroke-linecap:butt;">4</text>
+            </g>
+            <g transform="matrix(0.154812,0,0,0.154812,200.47,440.72)">
+                <text x="416.12px" y="478.778px" style="font-family:'Avenir-Light';font-size:113.731px;stroke-width:6.46px;stroke-linecap:butt;">2</text>
+            </g>
+            <g transform="matrix(0.154812,0,0,0.154812,200.47,463.919)">
+                <text x="416.12px" y="478.778px" style="font-family:'Avenir-Light';font-size:113.731px;stroke-width:6.46px;stroke-linecap:butt;">2</text>
+            </g>
+            <g transform="matrix(1.02874,2.46519e-32,0,0.917263,-313.035,212.867)">
+                <text x="476.504px" y="429.423px" style="font-family:'Avenir-Heavy';font-size:113.731px;stroke-width:1.03px;stroke-linecap:butt;">T</text>
+            </g>
+        </g>
+    </g>
+</svg>
